@@ -30,3 +30,11 @@ a {
   justify-content: center;
   column-gap: 0.5rem;
 }
+
+.footer {
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  left: 2rem;
+  right: 0;
+}
